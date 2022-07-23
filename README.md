@@ -1,5 +1,5 @@
-# Amodeus Munich  Taxi
-
+# Amodeus Munich Taxi
+![scenario-munich.png](img/scenario-munich.png)
 Simulation Model used in the thesis "Predictive Fleet Strategy for Ridesourcing Services in Reference to Munich's Taxi System" (2022) by Michael Wittmann, M. Sc. at the Institute of Automotive Technology (FTM) at Technical University Munich (TUM).
 
 This repository contains all necessary source code for simulating different distribution and rebalancing strategies
