@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ranks SYSTEM "https://raw.githubusercontent.com/michaelwittmann/amodeus-taxi-munich-dtd/master/taxi_ranks.dtd">
+
+<ranks>
+	<rank id="202" capacity="9" description="Ostseite, Höhe Kiosk vor Grünwalder Straße 17" x="691663.7123516514" y="5331633.388225922" popularity="0.0051074848"/>
+	<rank id="53" capacity="5" description="Südseite, vor Haus Num- mer 100" x="696570.0955310825" y="5335226.758355974" popularity="0.004029221"/>
+	<rank id="64" capacity="14" description="Ostseite, zwischen Lindwurmstraße und Waltherstraße" x="690388.8434475625" y="5333893.916984728" popularity="0.012987203"/>
+	<rank id="124" capacity="10" description="Südseite, Höhe Adelgundenstraße" x="691781.1783470572" y="5335019.654811242" popularity="0.00541253"/>
+	<rank id="149" capacity="5" description="Nordseite, vor Haus der Kunst" x="692330.438772223" y="5335516.526463863" popularity="0.0074757985"/>
+	<rank id="174" capacity="8" description="Südseite, westlich Theresienhöhe" x="690621.4661264475" y="5334736.111599502" popularity="0.008049084"/>
+	<rank id="177" capacity="3" description="Westlich der Dultstraße" x="691277.2005155088" y="5334502.10393769" popularity="0.0022310743"/>
+	<rank id="1" capacity="6" description="In Perlach" x="695859.6900208599" y="5330740.629791414" popularity="0.0020311414"/>
+	<rank id="25" capacity="5" description="Westseite, Firma Siemens" x="688383.2039831183" y="5329655.399365752" popularity="5.4084754E-4"/>
+	<rank id="82" capacity="8" description="Ostseite, vor Rondell zur Fußgängerzone Neuhauser Straße" x="690881.1072595702" y="5334989.543274089" popularity="0.009543121"/>
+	<rank id="111" capacity="4" description="Nordseite, östlich Langwieder Hauptstraße" x="690684.5919237833" y="5333959.396546024" popularity="0.0021690046"/>
+	<rank id="103" capacity="3" description="Ostseite, gegenüber Mittbacher Straße" x="699331.0923452445" y="5335711.774732275" popularity="1.04800914E-4"/>
+	<rank id="216" capacity="25" description="Terminal 2" x="706646.0578747776" y="5359641.186889512" popularity="0.013187448"/>
+	<rank id="86" capacity="7" description="Ostseite (ab Einmündung Busspur bis Fußgängerübergang)" x="694099.7428051085" y="5342174.317518255" popularity="0.0017526081"/>
+	<rank id="106" capacity="8" description="Westseite, zwischen Ainmillerstraße und Franz-Joseph-Straße" x="692036.5105731988" y="5336508.004275781" popularity="0.00846049"/>
+	<rank id="214" capacity="10" description="Terminal 1E" x="706345.197009451" y="5358940.2767412225" popularity="0.0016952171"/>
+	<rank id="135" capacity="15" description="unter den Arkaden" x="693802.7640579585" y="5333819.398609942" popularity="0.008027563"/>
+	<rank id="88" capacity="3" description="Nordseite, vor Hotel Holiday Inn" x="688164.1443051771" y="5329970.842459917" popularity="4.1920366E-4"/>
+	<rank id="32" capacity="5" description="Südlich" x="690287.497499327" y="5334925.258088134" popularity="0.017696071"/>
+	<rank id="171" capacity="3" description="Schlossrondell" x="686209.9849580408" y="5336882.644237606" popularity="1.9712553E-4"/>
+	<rank id="206" capacity="13" description="Westseite, nördlich Sollner Straße, in der Parkbucht" x="691000.7173740417" y="5333191.121287417" popularity="0.0054967455"/>
+	<rank id="74" capacity="10" description="Westseite, südlich Schmalkaldener Straße, vor Haus Nummer 23" x="691958.3981265031" y="5341267.409323921" popularity="0.0030180167"/>
+	<rank id="175" capacity="10" description="Am Haupteingang des U-Bahnhofes" x="684770.8778398545" y="5329114.994467216" popularity="0.0017114363"/>
+	<rank id="115" capacity="4" description="Nördliche Fahrbahn" x="692336.694887408" y="5333558.52811699" popularity="0.0021565282"/>
+	<rank id="118" capacity="5" description="Ostseite, vor Kaufhaus Beck" x="689697.825041173" y="5335639.978329304" popularity="0.0018570971"/>
+	<rank id="95" capacity="6" description="Nördlich Freystraße" x="692588.3718496007" y="5337806.091371862" popularity="0.015106303"/>
+	<rank id="141" capacity="15" description="Albert-Roßhaupter-Straße, Nordseite" x="688004.144511183" y="5332346.4697999405" popularity="0.004411931"/>
+	<rank id="119" capacity="3" description="Südseite, westlich Zirkus Krone" x="690721.1089066664" y="5334427.905384137" popularity="5.79836E-4"/>
+	<rank id="184" capacity="7" description="An Heiliggeistkirche" x="691748.469367477" y="5334662.522099157" popularity="0.008619563"/>
+	<rank id="8" capacity="8" description="Westseite, nördlich Tierparkstraße" x="689670.1335549222" y="5330632.42914473" popularity="9.223104E-4"/>
+	<rank id="70" capacity="15" description="Zwischen Denninger Straße und Bülowstraße" x="694075.0202661649" y="5336332.068074287" popularity="0.0059031607"/>
+	<rank id="145" capacity="6" description="Ostseite, südlich Quiddestraße" x="696807.5747497054" y="5331785.650752535" popularity="0.0012679038"/>
+	<rank id="18" capacity="14" description="Westseite, auf Privatgrund in der Hotelzufahrt" x="690376.4310296761" y="5335161.863058724" popularity="0.010267058"/>
+	<rank id="134" capacity="5" description="Ortsfahrbahn, Südseite, ca 50m westlich Mariahilfplatz, gegenüber Hausnummer 26" x="692052.1097673476" y="5333382.076927174" popularity="0.004018304"/>
+	<rank id="69" capacity="10" description="Südliche Fahrbahn Südwestseite, westlich Lerchenauer Straße" x="689911.0140783503" y="5339530.018075467" popularity="0.0039892965"/>
+	<rank id="195" capacity="5" description="Westseite, vor Haus Nummer 139" x="693868.351121786" y="5340007.908917425" popularity="0.0037834377"/>
+	<rank id="50" capacity="14" description="Westseite, zwischen Schrammerstraße und Landschaftstraße" x="691718.3289347127" y="5334895.1602508025" popularity="0.0018402541"/>
+	<rank id="139" capacity="3" description="Ostseite, vor Restaurant im Bernheimer Palais" x="691015.0166403255" y="5335216.535056375" popularity="0.007897809"/>
+	<rank id="43" capacity="6" description="Ortsfahrbahn unter der Brücke zwischen Hans-Mielich-Straße und Pilgersheimer Straße" x="691378.2901427108" y="5331924.242641103" popularity="0.0051243277"/>
+	<rank id="203" capacity="4" description="U-Bahnhof Harthof" x="690779.9210660099" y="5342251.504813368" popularity="0.0012120724"/>
+	<rank id="185" capacity="5" description="Nordseite, vor der Sparkasse" x="691822.8600009863" y="5334665.016450003" popularity="0.00728803"/>
+	<rank id="121" capacity="12" description="Westseite, gegenüber Hausnummer 4, ab ca 40m nördlich Montgelasstraße" x="691455.3621702067" y="5335409.277881419" popularity="0.0038548645"/>
+	<rank id="92" capacity="5" description="Ostseite, Höhe Haus Nummer 34, an der &quot;Uni-Reitschule&quot;" x="686722.0001609197" y="5336020.42747564" popularity="4.631826E-4"/>
+	<rank id="17" capacity="10" description="Ostseite, südlich Hotel- vorfahrt zum Hotel Ara- bellaSheraton" x="694712.7070618006" y="5336409.384616235" popularity="0.005203864"/>
+	<rank id="58" capacity="4" description="Westseite, Nähe Fußgängerzone" x="691240.3900840525" y="5334934.789531007" popularity="5.305546E-4"/>
+	<rank id="163" capacity="6" description="Südseite, östlich Tegernseer Landstraße, vor Haus Nummer 18 bis 20" x="692432.4338093356" y="5332705.032298514" popularity="0.0039150626"/>
+	<rank id="192" capacity="5" description="westliche Zufahrt Anwesen Nummer 250, auf 23m Länge in westlicher Richtung" x="698090.1218599785" y="5333699.19222228" popularity="0.0018293373"/>
+	<rank id="55" capacity="7" description="Südseite" x="691460.8905959354" y="5337022.750327012" popularity="0.012873357"/>
+	<rank id="97" capacity="6" description="Östlich Trappentreustraße" x="687633.1281585542" y="5335026.696330065" popularity="0.002780967"/>
+	<rank id="125" capacity="12" description="Maximilianstraße 2 und gegenüber" x="692442.8798931233" y="5334830.484326375" popularity="0.008945818"/>
+	<rank id="148" capacity="7" description="Ostseite, südlich Prinzregentenstraße" x="693811.9138118902" y="5335088.113379323" popularity="0.01052563"/>
+	<rank id="98" capacity="7" description="Südseite, westlich Friedenheimer Brücke" x="686114.8031500936" y="5335232.970049456" popularity="0.0048729302"/>
+	<rank id="197" capacity="8" description="Ostseite, südlich Sankt-Galler-Straße" x="688153.0883241651" y="5337102.03986678" popularity="0.0034830708"/>
+	<rank id="5" capacity="8" description="Nordseite, östlich Limesstraße" x="680237.425882553" y="5335556.454733707" popularity="0.0010873094"/>
+	<rank id="41" capacity="9" description="Nordwestseite, auf Länge S-Bahnhof Moosach" x="686316.8598971785" y="5339311.500641537" popularity="0.0031608704"/>
+	<rank id="200" capacity="4" description="Nordseite, westlich Phantasiestraße" x="701070.4943539654" y="5332412.254105599" popularity="0.001456296"/>
+	<rank id="196" capacity="5" description="Westseite, gegenüber der Metzgerzeile" x="691697.1408615544" y="5334638.549369124" popularity="0.0018025133"/>
+	<rank id="153" capacity="7" description="Westseite, ca. 25 Meter südlich Frauenstraße" x="691675.9498136673" y="5334381.938707045" popularity="0.011792909"/>
+	<rank id="129" capacity="4" description="Westseite, zwischen Hildegardstraße und Zweibrückenstraße" x="692012.1715537796" y="5334793.756196206" popularity="0.0025560816"/>
+	<rank id="181" capacity="5" description="Ostseite, südlich Herzogspitalstraße" x="690788.0882127108" y="5334652.659105128" popularity="0.005808341"/>
+	<rank id="85" capacity="5" description="Nordseite, östlich Barer- straße" x="691141.4846387645" y="5335665.803324613" popularity="0.003997406"/>
+	<rank id="189" capacity="10" description="vor PEP-Einkaufszentrum" x="696978.8106456134" y="5330923.659693582" popularity="0.001965329"/>
+	<rank id="116" capacity="5" description="westlich der östlichen Fahrbahn" x="692356.0178600275" y="5340947.005504494" popularity="0.001614745"/>
+	<rank id="215" capacity="15" description="Zentralbereich" x="706591.6562092641" y="5359505.664565331" popularity="0.0019696958"/>
+	<rank id="36" capacity="7" description="Westseite, ca. 30 Meter nördlich Dülferstraße" x="689898.221140042" y="5343267.944956015" popularity="7.816401E-4"/>
+	<rank id="72" capacity="3" description="Beim Holiday Inn, City Center, 100m südlich Rosenheimer Straße" x="692670.3053828287" y="5334048.179192656" popularity="0.009902438"/>
+	<rank id="29" capacity="6" description="Westseite, nördlich Schellingstraße, vor Haus Nummer 47" x="691244.5007597657" y="5335925.147887666" popularity="0.0034836945"/>
+	<rank id="213" capacity="10" description="Terminal 1D" x="706307.8901274455" y="5359150.360775402" popularity="9.859395E-4"/>
+	<rank id="188" capacity="3" description="Nordseite, östlich Haupteingang Neue Pinakothek" x="691224.0501803075" y="5336091.355181899" popularity="0.0056916876"/>
+	<rank id="35" capacity="4" description="In der Nähe vom Forum am Hirschgarten" x="687280.562579535" y="5335560.295248499" popularity="0.0011369027"/>
+	<rank id="142" capacity="12" description="Südseite, westlich Bäckerstraße" x="683067.1982974143" y="5335768.730908863" popularity="0.0034762088"/>
+	<rank id="172" capacity="2" description="Westseite, vor Feinkost Käfer" x="693584.994321996" y="5335191.691268753" popularity="0.011946056"/>
+	<rank id="204" capacity="7" description="Südseite, im Bereich der Busabstellfläche" x="685126.7276875114" y="5334933.88939229" popularity="0.0010040301"/>
+	<rank id="4" capacity="5" description="westlich der Brieger Straße" x="685165.8520825363" y="5339240.691459502" popularity="2.7790957E-4"/>
+	<rank id="63" capacity="6" description="Innerhalb der Tram-Wendeschleife Großhesseloher Brücke" x="689893.6162293212" y="5327936.268116687" popularity="6.3691504E-4"/>
+	<rank id="158" capacity="5" description="Nordseite" x="694558.6993953291" y="5332398.6207473" popularity="0.0037644112"/>
+	<rank id="193" capacity="5" description="Nordseite, westlich Schmuckerweg" x="698676.9347803254" y="5333318.969546829" popularity="0.0020414344"/>
+	<rank id="160" capacity="5" description="Ortsfahrbahn Ostseite, südlich Kichseeoner Straße" x="692781.1547908378" y="5334074.165963333" popularity="0.002235129"/>
+	<rank id="100" capacity="12" description="Nordseite, östlich Schichtlstraße, am Haupteingang" x="698899.7825313411" y="5335908.168363376" popularity="1.3942264E-4"/>
+	<rank id="167" capacity="8" description="Ecke Bayerstraße, Richtung Süd" x="690533.3438464314" y="5334922.317050831" popularity="0.006137715"/>
+	<rank id="187" capacity="3" description="südlich Brudermühlstraße in Parkbucht ab Höhe Zufahrt Anwesen 143 Richtung Süd" x="689689.5519837321" y="5331845.785307148" popularity="0.003930034"/>
+	<rank id="109" capacity="4" description="Westseite, vor Anwesen Nummer 29" x="693856.5639865466" y="5341231.423298081" popularity="9.257414E-4"/>
+	<rank id="191" capacity="4" description="Südseite, östlich Thalkirchner Brücke" x="689675.3692850581" y="5330699.357309249" popularity="0.0039418866"/>
+	<rank id="42" capacity="8" description="Westseite, nördlich Stuntzstraße" x="694648.563173736" y="5335450.322144237" popularity="0.0028427248"/>
+	<rank id="13" capacity="10" description="Westseite, vor Haus Nummer 7" x="691655.4205272818" y="5335883.276930615" popularity="0.010257077"/>
+	<rank id="151" capacity="10" description="Südseite, vor Zufahrt Fußgängerzone Maffeistraße" x="691384.3290556489" y="5335084.243483959" popularity="0.004998629"/>
+	<rank id="110" capacity="4" description="Westlich Rupertstraße (Kreisverwaltungsreferat)" x="689720.5756535453" y="5333382.1793284435" popularity="0.008392494"/>
+	<rank id="123" capacity="3" description="Nordseite, westlich Wurzerstraße" x="692073.8963894853" y="5334951.594995128" popularity="0.0062344065"/>
+	<rank id="11" capacity="8" description="Messe West, Internationales Congresscenter München" x="701198.7646806289" y="5334909.26103533" popularity="0.0011231789"/>
+	<rank id="120" capacity="5" description="Ostseite, südlich Petten- koferstraße" x="693381.207416529" y="5336152.7876247335" popularity="0.0068747527"/>
+	<rank id="76" capacity="7" description="Nordseite, Riegerblock, Thierschstraße Thomas-Wimmer-Ring" x="692149.8329977342" y="5334464.594352735" popularity="0.015083846"/>
+	<rank id="104" capacity="10" description="Auf der Insel in Höhe Dom-Pedro-Straße" x="689378.8838215462" y="5337175.903646478" popularity="0.0041003358"/>
+	<rank id="173" capacity="5" description="westliche Zufahrt zum Deutschen Theater" x="689601.2270893562" y="5334735.578029196" popularity="0.014600077"/>
+	<rank id="77" capacity="10" description="Westseite, Erweiterung in Richtung Nord, nördlich Langerstraße" x="693306.9151839996" y="5334826.242999555" popularity="0.007848839"/>
+	<rank id="20" capacity="3" description="Nordseite, östlich Eingang Augustinerkeller" x="688723.4831235909" y="5335607.736838348" popularity="0.007069071"/>
+	<rank id="207" capacity="7" description="Ecke Maximilianstraße, neben Hotel Vier Jahreszeiten" x="688167.712600817" y="5328046.233484261" popularity="0.0025242672"/>
+	<rank id="176" capacity="4" description="Zufahrt Schloss Blutenburg" x="682832.5272330109" y="5337518.994616335" popularity="0.002457519"/>
+	<rank id="22" capacity="10" description="Westseite, vor Haus Nummer 117" x="690774.6733872353" y="5329690.03654908" popularity="0.00368737"/>
+	<rank id="150" capacity="7" description="Nordseite" x="691445.3251910689" y="5335041.780657845" popularity="0.005015472"/>
+	<rank id="21" capacity="5" description="Südseite, westlich Zufahrt Anwesen 61 (Daimler-Chrysler)" x="690863.0148903666" y="5336646.719621101" popularity="0.007851023"/>
+	<rank id="130" capacity="7" description="Haus Nummer 78 - 80 in Höhe Maillinger Straße 84" x="688382.5329829595" y="5336464.303081921" popularity="0.016447505"/>
+	<rank id="136" capacity="6" description="Ostseite" x="693650.280686475" y="5333702.972203903" popularity="0.00624969"/>
+	<rank id="117" capacity="3" description="vor Haupteingang Firma Wal-Mart" x="691693.7886070902" y="5334738.572047662" popularity="9.107698E-5"/>
+	<rank id="71" capacity="3" description="Südseite Ortsfahrbahn, vor dem Friedhofseingang" x="694849.4136717168" y="5330861.937284654" popularity="1.2226772E-4"/>
+	<rank id="126" capacity="9" description="Parkbucht zwischen Ottostraße und Maximiliansplatz (Südseite, ca 48 Meter)" x="691169.3636922594" y="5335277.322907167" popularity="0.008550632"/>
+	<rank id="143" capacity="5" description="Westseite, nördlich Bayerstraße" x="690130.177006324" y="5334953.40379201" popularity="0.010135746"/>
+	<rank id="132" capacity="16" description="Höhe Hofgartenstraße" x="691746.9379322308" y="5335374.542915515" popularity="0.009462337"/>
+	<rank id="168" capacity="12" description="Westseite, nördlich Eli- sabethstraße, Fahrtrich- tung Süd" x="690814.8074428338" y="5338981.586644478" popularity="0.004493027"/>
+	<rank id="90" capacity="12" description="Östlich Ortsfahrbahn, zwischen Hörwarthstraße und Parzivalstraße" x="691696.8479763552" y="5338421.431895563" popularity="0.0043373853"/>
+	<rank id="180" capacity="10" description="Westseite, südlich Bayerstraße" x="690851.3311959257" y="5334766.029152918" popularity="0.005546027"/>
+	<rank id="122" capacity="5" description="nördliche Fahrbahn (stadteinwärts), ab westlich Beginn der Parkbucht" x="692051.9534869979" y="5334939.731948487" popularity="0.0030953698"/>
+	<rank id="107" capacity="13" description="Ostseite, zwischen Franzstraße und Feilitzschstraße" x="692196.6788194429" y="5337058.571865969" popularity="0.0127030555"/>
+	<rank id="7" capacity="16" description="Südwestseite vor der Post" x="688994.2897794758" y="5332367.951796144" popularity="0.011128547"/>
+	<rank id="59" capacity="2" description="Westseite, nördlich Altheimer Eck" x="691282.7871518254" y="5334780.442385594" popularity="0.0014678366"/>
+	<rank id="16" capacity="6" description="Nordseite, vor Haus Nummer 1" x="694699.9707979421" y="5336564.721924748" popularity="0.006667958"/>
+	<rank id="65" capacity="5" description="Bucht westlich der Tram-Wendeschleife" x="685296.9715699544" y="5333125.968189684" popularity="6.481437E-4"/>
+	<rank id="3" capacity="3" description="Ostseite" x="692680.0747286803" y="5335305.772152818" popularity="0.007685712"/>
+	<rank id="155" capacity="9" description="Ostseite" x="691533.480798872" y="5334633.06669464" popularity="0.002834615"/>
+	<rank id="113" capacity="10" description="Nordseite, zwischen Akelei- und Soyerhof-straße, in der Parkbucht" x="684152.1341447807" y="5331898.615180462" popularity="0.002518341"/>
+	<rank id="9" capacity="15" description="nördlich Eingang West" x="700299.0244553359" y="5334866.553863662" popularity="0.004079126"/>
+	<rank id="57" capacity="20" description="Nordseite, östlich Ein- fahrt zum Klinikum" x="695111.1146592632" y="5336734.512154401" popularity="0.0044518556"/>
+	<rank id="165" capacity="5" description="Südwestseite, in Buswendeanlage bei Straßenbahnendhaltestelle" x="696611.7544091524" y="5333147.500207956" popularity="0.001675255"/>
+	<rank id="54" capacity="6" description="Nordwestseite, südöstlich Westendstraße" x="687515.689916803" y="5334066.04054772" popularity="0.0023645705"/>
+	<rank id="211" capacity="10" description="Terminal 1B" x="706248.5004449273" y="5359559.954125877" popularity="0.00120677"/>
+	<rank id="162" capacity="4" description="vor Hotel Novotel" x="696893.3222156365" y="5329941.575606821" popularity="5.4209516E-4"/>
+	<rank id="39" capacity="2" description="südliche Fahrbahn, Südseite östlich Delpstraße" x="694218.5493953715" y="5335613.723918327" popularity="4.0204872E-4"/>
+	<rank id="96" capacity="10" description="Westseite, südlich Hohenzollernplatz" x="691459.3910441705" y="5337289.727444476" popularity="0.010886506"/>
+	<rank id="62" capacity="6" description="Westseite, zwischen Kazmairstraße und Heimeranstraße" x="688959.0865791789" y="5334336.050515101" popularity="0.008057194"/>
+	<rank id="186" capacity="4" description="Nordseite, vor dem MTC Haus 4" x="691834.8098955186" y="5340517.794659189" popularity="0.0034141392"/>
+	<rank id="194" capacity="3" description="DG-Bank, Ostseite, nördlich Gabelsberger Straße" x="691405.8948096978" y="5335774.783193421" popularity="0.0032650474"/>
+	<rank id="208" capacity="4" description="Nordseite Nußbaumklinikgelände" x="690648.9062159418" y="5334136.222887752" popularity="0.0032513235"/>
+	<rank id="201" capacity="8" description="Nordseite, östlich Tegernseer Landstraße" x="692093.4933657052" y="5332370.988939316" popularity="0.007671364"/>
+	<rank id="34" capacity="3" description="Südlich gegenüber Schinkelstraße" x="692759.050813885" y="5338924.478305058" popularity="0.004516732"/>
+	<rank id="14" capacity="8" description="Westseite, nördlich Theresienstraße" x="690429.1354836025" y="5340281.592345501" popularity="0.0046467977"/>
+	<rank id="169" capacity="9" description="südlich Petuelring" x="690595.7450320382" y="5337294.237762826" popularity="0.012560202"/>
+	<rank id="2" capacity="10" description="Südseite, ca. 30 Meter östlich Fürstenrieder Straße" x="686261.7196388876" y="5334837.235558227" popularity="0.002568246"/>
+	<rank id="61" capacity="4" description="Westseite, südlich S-Bahn-Aufgang" x="693941.9622713939" y="5333668.346470699" popularity="0.0044440576"/>
+	<rank id="147" capacity="3" description="Nordseite, zwischen Einfahrt Anwesen Nummer 1 und Praterwehrbrücke" x="692709.6058031543" y="5334650.3191080615" popularity="0.0026677446"/>
+	<rank id="84" capacity="3" description="(Sturm Plaza) Südseite, ca. 150m östlich Leopoldstraße, vor Haus Nummer 6" x="692194.709270197" y="5339550.785705512" popularity="0.0040650903"/>
+	<rank id="146" capacity="7" description="Westseite nördlich Boschetsrieder Straße" x="689163.1914130163" y="5330637.913838414" popularity="0.003148706"/>
+	<rank id="38" capacity="5" description="Nordseite, östlich Bachbauernstraße, vor Gasthof Zur Post" x="682880.5815270235" y="5335551.381400117" popularity="0.0018907831"/>
+	<rank id="154" capacity="5" description="Südseite, westlich der Ganghoferstraße" x="688424.5484711897" y="5334285.04087298" popularity="0.004947788"/>
+	<rank id="45" capacity="6" description="Nordseite, Höhe Kino" x="693142.7127940223" y="5329758.259780158" popularity="2.6792852E-4"/>
+	<rank id="23" capacity="10" description="Westseite, südwestlich Grünwalder Straße" x="690501.3679863571" y="5334988.007770786" popularity="0.004528273"/>
+	<rank id="152" capacity="8" description="Südseite, ca 100m westlich Aidenbachstraße Höhe Haus Nummer 119" x="687830.1580082418" y="5330382.652796057" popularity="0.0034060297"/>
+	<rank id="6" capacity="9" description="Ostseite, südlich Preysingstraße" x="692790.7909515118" y="5334230.257929657" popularity="0.0034918042"/>
+	<rank id="209" capacity="6" description="Westseite, südlich Parkplatzeinfahrt (südlicher Zugang zum S-Bahnhof Karlsfeld)" x="682825.6077711964" y="5342614.121521546" popularity="1.2881779E-4"/>
+	<rank id="102" capacity="4" description="Nordseite, Einmündungsbereich Nymphenphenburger Straße, U-Bahn-Zugang" x="689269.9861870275" y="5336193.219229118" popularity="0.003961225"/>
+	<rank id="170" capacity="6" description="Westseite" x="693084.5209581278" y="5331925.906093825" popularity="0.003630603"/>
+	<rank id="87" capacity="5" description="Südseite, westlich Hofmannstraße 51" x="687355.1789298623" y="5329866.447389953" popularity="0.0020043175"/>
+	<rank id="66" capacity="4" description="Südseite, östlicher Zugang zur S-Bahn" x="683128.0826240401" y="5335959.808356545" popularity="8.93303E-4"/>
+	<rank id="161" capacity="3" description="Nordseite, östlich Prälat-Zistl-Straße" x="691588.5324637063" y="5334545.901624975" popularity="0.005160821"/>
+	<rank id="183" capacity="10" description="Am U-Bahnhof" x="690173.1443776636" y="5335900.538363394" popularity="0.009050307"/>
+	<rank id="10" capacity="0" description="Taxispeicher in 2 Reihen" x="700263.041732201" y="5335043.328163349" popularity="0.0048988187"/>
+	<rank id="93" capacity="10" description="Ecke Schildensteinstraße" x="696180.7679500021" y="5333766.926189177" popularity="6.3317217E-4"/>
+	<rank id="140" capacity="5" description="Nordöstlich vor Müllerstraße 26" x="691327.0346322291" y="5334125.484449874" popularity="0.020130197"/>
+	<rank id="91" capacity="2" description="Guntherstraße, Haupteingang Hirschgar- ten" x="692522.040274121" y="5336902.628375271" popularity="0.0028523938"/>
+	<rank id="144" capacity="10" description="-" x="691486.2309425214" y="5335376.933154955" popularity="0.0014809367"/>
+	<rank id="133" capacity="3" description="Ostseite in der Anliegerspur (Vorfahrtsspur), vor dem Zugang zum Allacher Bahnhof" x="683373.8566442514" y="5340362.154131032" popularity="3.6961035E-4"/>
+	<rank id="19" capacity="29" description="Südseite, vor Bahnhof Nordausgang (Ortsfahrbahn)" x="690331.4309512306" y="5335171.491174335" popularity="0.0074043716"/>
+	<rank id="182" capacity="3" description="Westseite, nördlich Landwehrstraße" x="690810.4289715753" y="5334875.92460251" popularity="0.0022591457"/>
+	<rank id="37" capacity="3" description="Westseite, nördlich Terofalstraße" x="684197.8011780389" y="5333257.360069382" popularity="3.8115092E-4"/>
+	<rank id="179" capacity="4" description="Nordseite, gegenüber Harlachinger Krankenhaus" x="690323.6964839778" y="5329129.869872478" popularity="0.0018595924"/>
+	<rank id="131" capacity="15" description="Westseite, nördlich Rotkreuzplatz" x="689392.6596277095" y="5336086.023100718" popularity="0.010503172"/>
+	<rank id="48" capacity="4" description="Südwestseite, südöstlich Baubergerstraße, vor Haus Nummer 421" x="686737.6237635132" y="5339414.247731569" popularity="0.0020854133"/>
+	<rank id="44" capacity="5" description="Westseite, unter der Brücke bei der U- Bahnstation Neuperlach-Süd" x="696966.6406877278" y="5329543.537395441" popularity="0.0013680261"/>
+	<rank id="199" capacity="4" description="Südwestseite an der Ortsfahrbahn entlang Putzbrunner Straße" x="699213.5477472733" y="5329242.91311608" popularity="7.392207E-5"/>
+	<rank id="99" capacity="3" description="Kreuzung mit der Fürstenrieder Straße, Westseite" x="688633.5451285144" y="5334948.348590845" popularity="0.007628321"/>
+	<rank id="190" capacity="5" description="Südostseite (Haupteingang)" x="690418.6211383182" y="5330534.882366968" popularity="2.1927095E-4"/>
+	<rank id="24" capacity="19" description="Westseite, vor Haupteingang" x="690506.9555556024" y="5335043.823806477" popularity="0.0063535552"/>
+	<rank id="80" capacity="4" description="ca. 100m südlich Hugo-Lang-Bogen" x="697964.266632359" y="5331091.162901574" popularity="0.0011319122"/>
+	<rank id="138" capacity="8" description="Südseite westlich Hauptzugang Gelände Firma Siemens" x="697206.7935820326" y="5329930.1053903075" popularity="4.24818E-4"/>
+	<rank id="49" capacity="5" description="Südseite, westlich der Bahn auf dem Gelände der Deutschen Bundes- bahn, beim S-Bahnhof Daglfing" x="697050.0286372765" y="5336211.304153714" popularity="9.120175E-4"/>
+	<rank id="198" capacity="12" description="Nordseite, nördlich Fürstenrieder Straße" x="686330.0141633895" y="5331824.4585359935" popularity="0.0032987334"/>
+	<rank id="27" capacity="6" description="An der Ecke zur Wittelsbacher Straße" x="691060.2449846537" y="5333193.108496993" popularity="0.0074648815"/>
+	<rank id="46" capacity="8" description="Westseite, nördlich Johanneskirchner Straße (vor der Post)" x="695659.4736426275" y="5339201.119839245" popularity="0.005207919"/>
+	<rank id="12" capacity="17" description="Alfons-Goppel-Straße" x="693272.8760812532" y="5336494.040705872" popularity="0.004988648"/>
+	<rank id="157" capacity="9" description="vor Rosenheimer Straße 63" x="692991.0285228046" y="5333814.212157191" popularity="0.015352398"/>
+	<rank id="105" capacity="9" description="Westseite, ca. 50 Meter nördlich Akademiestraße" x="692125.0396783454" y="5338524.8257668195" popularity="0.012103882"/>
+	<rank id="101" capacity="4" description="Westseite, zwischen Haus Nummer 95 und 101" x="688411.2126364931" y="5341460.743544405" popularity="3.3218146E-4"/>
+	<rank id="164" capacity="4" description="Westseite, nördlich Bad-Schachener-Straße (Parkplatz)" x="695763.9985229615" y="5332884.778812089" popularity="0.0018695734"/>
+	<rank id="15" capacity="8" description="Westseite, nördlich Moosacher Straße" x="693933.2922526989" y="5333044.977057173" popularity="0.0035479476"/>
+	<rank id="40" capacity="9" description="Südseite, zwischen Haus Nummer 8 und östlich Orlandostraße" x="691915.0929078298" y="5334801.624097937" popularity="0.004911607"/>
+	<rank id="114" capacity="12" description="Nordseite, Klinikum Großhadern" x="692155.9069077668" y="5333396.6877979385" popularity="5.8326696E-4"/>
+	<rank id="210" capacity="10" description="Terminal 1A" x="706218.6057658674" y="5359770.307903375" popularity="9.6722506E-4"/>
+	<rank id="79" capacity="6" description="Südseite, vor Haus Nummer 26 Arbeitsamt" x="690478.4126055047" y="5333440.734415735" popularity="0.006327355"/>
+	<rank id="52" capacity="4" description="Westseite, vor Haus Nummer 99" x="694951.8575895684" y="5337474.55720169" popularity="0.0025960058"/>
+	<rank id="205" capacity="6" description="Westseite, nördlich Züricher Straße" x="685870.3475616758" y="5329918.2041326845" popularity="9.5350115E-4"/>
+	<rank id="212" capacity="10" description="Terminal 1C" x="706279.2043991417" y="5359327.373006576" popularity="0.0015423824"/>
+	<rank id="60" capacity="5" description="Haus Nummer 226 (Rockclub) Südseite, östlich des Josef-Dollinger- Bogen" x="693784.5995822559" y="5340283.22797032" popularity="0.0040610353"/>
+	<rank id="89" capacity="4" description="Südseite östlich Haus Nr. 12" x="689984.8706097014" y="5332601.011039664" popularity="4.298085E-4"/>
+	<rank id="166" capacity="6" description="Westseite, gegenüber Anwesen Nummer 31, nördlich der dortigen Parkplatzzufahrt" x="698365.2404396473" y="5334788.032967482" popularity="0.0017020791"/>
+	<rank id="94" capacity="3" description="östlich Dachauer Straße, gegenüber GolgathaKirche" x="684635.4941827202" y="5342983.920266397" popularity="7.2861585E-4"/>
+	<rank id="30" capacity="6" description="Westseite Karlsplatz" x="690769.8988440023" y="5334974.706672171" popularity="9.984159E-4"/>
+	<rank id="68" capacity="10" description="Ostseite, vor Olympia-Einkaufszentrum" x="688131.4200740476" y="5339793.765690334" popularity="0.005029508"/>
+	<rank id="156" capacity="10" description="Höhe Anwesen Nummer 5, Westseite, nördlich Romanstraße" x="686759.7109765327" y="5336689.194026623" popularity="0.0034231846"/>
+	<rank id="47" capacity="2" description="Südwestseite vor Haus Nummer 115 nördlich Hotelanfahrtszone" x="690128.2406481828" y="5336355.209433312" popularity="0.0018181086"/>
+	<rank id="159" capacity="6" description="Zwischen Hausnummer 145 und Anzinger Straße" x="692912.1294942062" y="5333945.066154966" popularity="0.0031477702"/>
+	<rank id="137" capacity="12" description="Südseite Krankenhaus Neuperlach, östlich Karl-Marx-Ring" x="697742.4068326089" y="5330393.638981991" popularity="0.0026449754"/>
+	<rank id="56" capacity="3" description="Südseite, westlich Luitpoldstraße, vor Elisenhof / Notfallpraxis" x="690640.8777491014" y="5335270.806489171" popularity="0.007638302"/>
+	<rank id="75" capacity="8" description="Ortsfahrbahn Westseite, südlich Sudetendeutschestraße" x="692137.3989841595" y="5339927.1506137885" popularity="0.007319221"/>
+	<rank id="178" capacity="8" description="Ostseite, nördlich Sendlinger-Tor-Platz" x="690953.9541824666" y="5334368.91751588" popularity="0.015985258"/>
+	<rank id="112" capacity="2" description="Ostseite, vor Haus Nummer 11, Frauenklinik" x="692174.0164578214" y="5330415.4982957095" popularity="0.0016518619"/>
+	<rank id="81" capacity="12" description="Ortsfahrbahn Südostseite, nordöstlich Rosenheimer Straße" x="694210.9825198294" y="5332765.108603094" popularity="0.0053186463"/>
+	<rank id="51" capacity="10" description="Südseite" x="690198.2359589518" y="5339172.417246155" popularity="0.0044240956"/>
+	<rank id="73" capacity="3" description="Ostseite, südlich Eingang Paulanerkeller" x="692158.5423536865" y="5333096.370584693" popularity="0.0036549317"/>
+	<rank id="78" capacity="3" description="Zufahrt zum P+R-Platz, Ostseite" x="688709.772812569" y="5343228.504419702" popularity="0.0018065681"/>
+	<rank id="33" capacity="2" description="Westseite, Fahrbahn Lessingstraße Beethovenstraße" x="690317.8614954972" y="5334236.459423898" popularity="0.0063495003"/>
+	<rank id="128" capacity="2" description="Nordwestseite, nordöst- lich Boschbrücke" x="692201.5918532336" y="5334032.412865408" popularity="0.0028102864"/>
+	<rank id="127" capacity="5" description="Verbindungsfahrbahn westliche Busspur in Höhe Schragenhofstraße" x="685349.3978472557" y="5337711.330905729" popularity="0.0015935353"/>
+	<rank id="31" capacity="25" description="Nordseite, westlich Zugang Hauptbahnhof Südausgang (gegenüber Goethestraße)" x="690338.0887159766" y="5334971.445400602" popularity="0.013379271"/>
+	<rank id="28" capacity="6" description="vor Haupteingang Westfriedhof" x="687923.5712566234" y="5338195.93685975" popularity="0.0014681484"/>
+	<rank id="26" capacity="9" description="Ostseite, südlich Chiemgaustraße" x="693854.962241126" y="5331618.154471544" popularity="0.0037934186"/>
+	<rank id="108" capacity="2" description="Ostseite, nördlich gegenüber Parzivalplatz" x="692331.1850162188" y="5337485.893860054" popularity="0.027373623"/>
+	<rank id="67" capacity="22" description="Südseite, zwischen Friedensstraße und Einfahrt Kunstpark Ost" x="693991.5032154953" y="5333525.383260912" popularity="0.0015214847"/>
+</ranks>

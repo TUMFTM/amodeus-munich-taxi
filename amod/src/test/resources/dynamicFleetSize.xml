@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dynamicfleetsize SYSTEM "https://raw.githubusercontent.com/michaelwittmann/amodeus-taxi-munich-dtd/master/dynamic_fleet_size.dtd">
+
+<dynamicfleetsize>
+    <fleetsize timestamp="0" count="130"/>
+    <fleetsize timestamp="300" count="130"/>
+    <fleetsize timestamp="600" count="130"/>
+    <fleetsize timestamp="900" count="130"/>
+    <fleetsize timestamp="1200" count="130"/>
+    <fleetsize timestamp="1500" count="140"/>
+    <fleetsize timestamp="1800" count="140"/>
+    <fleetsize timestamp="2100" count="140"/>
+    <fleetsize timestamp="2400" count="152"/>
+    <fleetsize timestamp="2700" count="152"/>
+    <fleetsize timestamp="3000" count="152"/>
+    <fleetsize timestamp="3300" count="152"/>
+    <fleetsize timestamp="3600" count="152"/>
+    <fleetsize timestamp="3900" count="152"/>
+    <fleetsize timestamp="4200" count="152"/>
+    <fleetsize timestamp="4500" count="160"/>
+    <fleetsize timestamp="4800" count="160"/>
+    <fleetsize timestamp="5100" count="160"/>
+    <fleetsize timestamp="5400" count="160"/>
+    <fleetsize timestamp="5700" count="160"/>
+    <fleetsize timestamp="6000" count="190"/>
+    <fleetsize timestamp="6300" count="190"/>
+    <fleetsize timestamp="6600" count="170"/>
+    <fleetsize timestamp="6900" count="170"/>
+    <fleetsize timestamp="7200" count="180"/>
+</dynamicfleetsize>

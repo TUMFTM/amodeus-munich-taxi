@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!ELEMENT spatio_temporal_request_predictions (spatial_request_prediction)+>
+<!ATTLIST spatio_temporal_request_predictions
+        xmlns CDATA #FIXED ''>
+
+<!ELEMENT spatial_request_prediction (zone)+>
+<!ATTLIST spatial_request_prediction
+        xmlns CDATA #FIXED ''
+        start_time CDATA #REQUIRED
+        end_time CDATA #REQUIRED>
+
+<!ELEMENT zone EMPTY>
+<!ATTLIST zone
+        xmlns CDATA #FIXED ''
+        id CDATA #REQUIRED
+        prediction CDATA #REQUIRED>
