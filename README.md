@@ -148,7 +148,7 @@ All amodeus tests with shared dispatchers were uncommented.
 
 ## Citation
 If you find our work useful in your research, please consider citing:
-```Latex
+```
 @phdthesis {
 	author = "Wittmann, Michael",
 	title = "Prädiktive Flottenstrategie für Ridesourcing-Dienste am Beispiel des Münchner Taxiverkehrs",
