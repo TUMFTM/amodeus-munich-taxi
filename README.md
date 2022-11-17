@@ -139,7 +139,7 @@ All amodeus tests with shared dispatchers were uncommented.
 - [Nanda Teuffel](https://github.com/NandaYogeshwar)
 
 ## Related Publications
-
+- M. Wittmann, "Prädiktive Flottenstrategie für Ridesourcing-Dienste am Beispiel des Münchner Taxiverkehrs", Technische Universität München, 2022. Available at: [mediaTUM](https://mediatum.ub.tum.de/doc/1638435/document.pdf)
 - M. Wittmann, L. Neuner und M. Lienkamp, „A Predictive Fleet Management Strategy for On-Demand Mobility Services: A Case Study in Munich,“ Electronics, Bd. 9, Rn. 6, S. 1021, 2020, DOI: [10.3390/electronics9061021](https://doi.org/10.3390/electronics10040379)
 - M. Wittmann, M. Kollek und M. Lienkamp, „Event-driven anomalies in spatiotemporal taxi passenger demand,“ in 2018 21st Int. Conf. Intell. Transp. Syst. 2018, S. 979–984, DOI: [10.1109/ITSC.2018.8569500](https://doi.org/10.1109/ITSC.2018.8569500)
 - B. Jäger, M. Wittmann und M. Lienkamp, „Analyzing and Modeling a City’s Spatiotemporal Taxi Supply and Demand: A Case Study for Munich,“ J. Traffic Logist. Eng., Bd. 4, Rn. 2, S. 147–153, 2016, DOI: [10.18178/jtle.4.2.147-153](https://doi.org/10.18178/jtle.4.2.147-153)
